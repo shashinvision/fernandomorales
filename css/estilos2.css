@@ -1,0 +1,63 @@
+.negro{
+	color: white;
+}
+.lista li{
+	list-style: none;
+	text-align:justify;
+font-style: italic;
+}
+.centrado{
+	text-align: center;
+	margin-left: auto;
+  margin-right: auto;
+}
+
+
+.slide{
+	width: 70%!important;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+  text-align: center;
+}
+.idioma{
+	font-size: 20px;
+	font-weight: bold;
+}
+.copy{
+	text-align: center;
+	font-style: italic;
+}
+.largo{
+	font-size: 38px!important;
+}
+/* leer mas  */
+div.infoExtra {
+  display:none;
+}
+.leerMas { color:blue; cursor:pointer; display:inline; font-weight: bold; font-style: italic; font-size: 20px;}
+.leerMas:hover {color:purple; text-decoration:underline;}
+
+/* fin leer mas  */
+
+.publicacion{
+	text-align: left;
+	color: #2d3fa3;
+}
+
+.example-image{
+	width: 200px;
+	height: 200px;
+	padding: 10px;
+
+}
+
+.icono{
+	padding: 0px;
+	width: 20px;
+}
+.mapa{
+	width: 70%;
+}
+
